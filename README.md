@@ -1,6 +1,6 @@
 # fnh-bot 🥳
 
-Friday Night Hangout bot for r/awakened slack group
+Friday Night Hangout slack bot for r/awakened slack group
 
 ## AWS Resources
 
