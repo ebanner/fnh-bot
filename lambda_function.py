@@ -84,8 +84,6 @@ https://calendar.app.google/bSEfptpaHaVgo6Fb6""")
 
 
 def lambda_handler(event, context):
-    send_reminder()
-    
     print('EVENT', event)
         
     if 'time' not in event:
