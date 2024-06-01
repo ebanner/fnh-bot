@@ -5,7 +5,7 @@ Friday Night Hangout bot for r/awakened slack group
 ## AWS Resources
 
 - Lambda
-- EventBridge
+- EventBridge (for cron)
 
 ## Running Lambda as cron
 
